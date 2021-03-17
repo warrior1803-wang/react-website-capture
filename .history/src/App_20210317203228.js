@@ -1,12 +1,11 @@
-import React from "react";
+import React from 'react'
 //improt pages
-import AboutUs from "./pages/AboutUs";
+import 
 
 function App() {
   return (
     <div className="App">
-     
-      <AboutUs />
+<h1>film</h1>
     </div>
   );
 }
